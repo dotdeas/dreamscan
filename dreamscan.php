@@ -1,3 +1,4 @@
+#!/usr/bin/env php
 <?php
 	// os check and console clear
 	$uname=php_uname();
